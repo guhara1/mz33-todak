@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://todakmassage.netlify.app/sitemap.xml
-Sitemap: https://todakmassage.netlify.app/sitemap-hub.xml
-Sitemap: https://todakmassage.netlify.app/sitemap-area.xml
-Sitemap: https://todakmassage.netlify.app/sitemap-topic.xml
-Sitemap: https://todakmassage.netlify.app/rss.xml
+Sitemap: https://todakmassage.pages.dev/sitemap.xml
+Sitemap: https://todakmassage.pages.dev/sitemap-hub.xml
+Sitemap: https://todakmassage.pages.dev/sitemap-area.xml
+Sitemap: https://todakmassage.pages.dev/sitemap-topic.xml
+Sitemap: https://todakmassage.pages.dev/rss.xml
